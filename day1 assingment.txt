@@ -1,0 +1,24 @@
+Q.no:1
+Difference between HTTP1.1 vs HTTP2:
+HTTP1.1 :
+* http1/1 desinged 1997(hypertext transfer protocol)
+* 3 tcp connection.
+* Number of requests 102,
+     and load time 2.40s.
+* HTTP/1.1 has some security issues.
+
+HTTP2 :
+ * http 2 designed to be faster.
+ *1 tcp with connection in multiple request 
+    and rseponse.
+ * This binary protocol.
+ * Number of requests 102,
+     and load time 1.785s.
+ * This is faster than hppt1.1
+
+Q.no2:
+javascript objects:
+* object is the string representation of a JavaScript object data type. 
+* JavaScript is an object-based language. Everything is an object in JavaScript.
+*example : let bike = {name: 'SuperSport', maker:'Ducati', engine:'937cc'};
+
